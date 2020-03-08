@@ -25,6 +25,7 @@ Partial Class Form1
         Me.Tb1 = New System.Windows.Forms.TextBox()
         Me.Bn1 = New System.Windows.Forms.Button()
         Me.pnlSukatan = New System.Windows.Forms.Panel()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Tb1
@@ -56,12 +57,23 @@ Partial Class Form1
         Me.pnlSukatan.Size = New System.Drawing.Size(417, 50)
         Me.pnlSukatan.TabIndex = 6
         '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(400, 301)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(51, 17)
+        Me.Label1.TabIndex = 7
+        Me.Label1.Text = "Label1"
+        Me.Label1.Visible = False
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None
         Me.ClientSize = New System.Drawing.Size(1060, 585)
+        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Bn1)
         Me.Controls.Add(Me.Tb1)
         Me.Controls.Add(Me.pnlSukatan)
@@ -76,4 +88,5 @@ Partial Class Form1
     Friend WithEvents Tb1 As System.Windows.Forms.TextBox
     Friend WithEvents Bn1 As System.Windows.Forms.Button
     Friend WithEvents pnlSukatan As Panel
+    Friend WithEvents Label1 As Label
 End Class
