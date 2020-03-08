@@ -34,6 +34,7 @@ Partial Class Form1
         Me.Tb4 = New System.Windows.Forms.TextBox()
         Me.pnlSukatan = New System.Windows.Forms.Panel()
         Me.cboOperators = New System.Windows.Forms.ComboBox()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Lb1
@@ -163,11 +164,23 @@ Partial Class Form1
         Me.cboOperators.Size = New System.Drawing.Size(236, 59)
         Me.cboOperators.TabIndex = 11
         '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(565, 333)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(89, 17)
+        Me.Label1.TabIndex = 12
+        Me.Label1.Text = "First Number"
+        Me.Label1.Visible = False
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1219, 683)
+        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.cboOperators)
         Me.Controls.Add(Me.Tb4)
         Me.Controls.Add(Me.Tb3)
@@ -199,4 +212,5 @@ Partial Class Form1
     Friend WithEvents Tb4 As System.Windows.Forms.TextBox
     Friend WithEvents pnlSukatan As Panel
     Friend WithEvents cboOperators As ComboBox
+    Friend WithEvents Label1 As Label
 End Class
