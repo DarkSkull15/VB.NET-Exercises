@@ -21,3 +21,13 @@ E:\Exercises\hello world\hello world\obj\Debug\ResolveAssemblyReference.cache
 E:\Exercises\hello world\hello world\obj\Debug\hello_world.Form1.resources
 E:\Exercises\hello world\hello world\obj\Debug\hello_world.Resources.resources
 E:\Exercises\hello world\hello world\obj\Debug\hello world.vbproj.GenerateResource.Cache
+C:\Users\Dark\Source\Repos\VB.NET-Exercises\hello world\hello world\bin\Debug\hello world.exe
+C:\Users\Dark\Source\Repos\VB.NET-Exercises\hello world\hello world\bin\Debug\hello world.pdb
+C:\Users\Dark\Source\Repos\VB.NET-Exercises\hello world\hello world\bin\Debug\hello world.xml
+C:\Users\Dark\Source\Repos\VB.NET-Exercises\hello world\hello world\obj\Debug\hello world.vbprojAssemblyReference.cache
+C:\Users\Dark\Source\Repos\VB.NET-Exercises\hello world\hello world\obj\Debug\hello_world.Form1.resources
+C:\Users\Dark\Source\Repos\VB.NET-Exercises\hello world\hello world\obj\Debug\hello_world.Resources.resources
+C:\Users\Dark\Source\Repos\VB.NET-Exercises\hello world\hello world\obj\Debug\hello world.vbproj.GenerateResource.cache
+C:\Users\Dark\Source\Repos\VB.NET-Exercises\hello world\hello world\obj\Debug\hello world.exe
+C:\Users\Dark\Source\Repos\VB.NET-Exercises\hello world\hello world\obj\Debug\hello world.xml
+C:\Users\Dark\Source\Repos\VB.NET-Exercises\hello world\hello world\obj\Debug\hello world.pdb

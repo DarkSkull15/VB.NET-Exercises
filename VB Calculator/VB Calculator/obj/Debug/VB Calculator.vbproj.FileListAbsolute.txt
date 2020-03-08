@@ -8,3 +8,13 @@ E:\Exercises\VB Calculator\VB Calculator\obj\Debug\VB Calculator.vbproj.Generate
 E:\Exercises\VB Calculator\VB Calculator\obj\Debug\VB Calculator.exe
 E:\Exercises\VB Calculator\VB Calculator\obj\Debug\VB Calculator.xml
 E:\Exercises\VB Calculator\VB Calculator\obj\Debug\VB Calculator.pdb
+C:\Users\Dark\source\repos\VB.NET-Exercises\VB Calculator\VB Calculator\bin\Debug\VB Calculator.exe
+C:\Users\Dark\source\repos\VB.NET-Exercises\VB Calculator\VB Calculator\bin\Debug\VB Calculator.pdb
+C:\Users\Dark\source\repos\VB.NET-Exercises\VB Calculator\VB Calculator\bin\Debug\VB Calculator.xml
+C:\Users\Dark\source\repos\VB.NET-Exercises\VB Calculator\VB Calculator\obj\Debug\VB Calculator.vbprojAssemblyReference.cache
+C:\Users\Dark\source\repos\VB.NET-Exercises\VB Calculator\VB Calculator\obj\Debug\VB_Calculator.Resources.resources
+C:\Users\Dark\source\repos\VB.NET-Exercises\VB Calculator\VB Calculator\obj\Debug\VB_Calculator.Form1.resources
+C:\Users\Dark\source\repos\VB.NET-Exercises\VB Calculator\VB Calculator\obj\Debug\VB Calculator.vbproj.GenerateResource.cache
+C:\Users\Dark\source\repos\VB.NET-Exercises\VB Calculator\VB Calculator\obj\Debug\VB Calculator.exe
+C:\Users\Dark\source\repos\VB.NET-Exercises\VB Calculator\VB Calculator\obj\Debug\VB Calculator.xml
+C:\Users\Dark\source\repos\VB.NET-Exercises\VB Calculator\VB Calculator\obj\Debug\VB Calculator.pdb
